@@ -13,7 +13,7 @@ public class MyFirstJavaProgram {
 		int y = 100;
 		System.out.print("value of x  "+x);
 		System.out.print("  value of y  "+y);
-		
+		System.out.print("First Commit successfull");
 		
 	}
 	
